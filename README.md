@@ -2,6 +2,8 @@
 
 Developer who saves time - the most precious resource!
 
+https://img.shields.io/github/gist/last-commit/upqnu?style=social
+
 <!--
 **upqnu/upqnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
